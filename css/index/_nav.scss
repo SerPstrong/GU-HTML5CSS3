@@ -1,0 +1,23 @@
+.navigation__menu {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+}
+
+.navigation__menu-link {
+  color:  #222222;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  padding: 20px 25px;
+  border-bottom: solid 3px transparent;
+}
+
+.navigation__menu-link:hover {
+  border-bottom: solid 3px #ef5b70;
+}

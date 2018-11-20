@@ -1,0 +1,15 @@
+@import 'normalize';
+@import 'header';
+@import 'index/nav';
+@import 'index/bunner';
+@import 'index/slide-people';
+@import 'index/_featured-items';
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
